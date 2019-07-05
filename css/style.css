@@ -64,7 +64,8 @@ img {
 }
 #header div {
 	margin: 0 auto;
-	max-width: 940px;
+	/*max-width: 940px;*/
+	max-width: 1145px;
 	min-height: 60px;
 	padding: 0 10px;
 }
@@ -105,7 +106,7 @@ img {
 	line-height: 59px;
 	margin: 0;
 	min-height: 60px;
-	padding: 0 24px;
+	padding: 0 12px;
  *padding: 0 23px; /* Needed for IE8 and old versions */
 	text-align: center;
 	text-transform: uppercase;
@@ -382,6 +383,30 @@ img {
 	padding: 0;
 	width: 950px;
 }
+
+#body.home .body #teach h1 {
+	color: rgb(0, 0, 0);
+	display: block;
+	font-family: Arial;;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 32px;
+	padding: 0;
+	text-align: left;
+	width: 780px;
+}
+#body.home .body #teach p {
+	color: #000000;
+	display: block;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	text-align: justify;
+	padding: 0;
+	width: 950px;
+}
+
 #body.home .body div p a {
 	color:#5b72dc; 
 	text-decoration:none; 
