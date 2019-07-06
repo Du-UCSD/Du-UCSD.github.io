@@ -407,6 +407,32 @@ img {
 	width: 950px;
 }
 
+#body.home .body .gallery ul li{
+	float:left; 
+	list-style:none;
+}
+
+#body.home .body .gallery{
+	margin: 0 auto;
+    max-width: 1200px;
+    overflow: hidden;
+    padding: 0px 10px 0;
+}
+
+#body.home .body .gallery .gali{
+	width: 350px;
+}
+
+#body.home .body .gallery ul li p{
+    word-wrap:break-word; 
+	overflow: hidden;  
+	width:350px;
+}
+
+#body.home .body .gallery ul li img{
+	width: 100%; 
+}
+
 #body.home .body div p a {
 	color:#5b72dc; 
 	text-decoration:none; 
