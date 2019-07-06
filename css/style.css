@@ -681,6 +681,20 @@ img {
 	width: 960px;
 }
 
+h1#bigTitle{
+	color: #000000;
+	display: block;
+	font-family: audiowide-regular-webfont;
+	font-size: 36px;
+	font-weight: normal;
+	line-height: 36px;
+	margin: 10px auto 1px;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+	width: 960px;
+}
+
 #body .body div h1#pubTitle {
 	color: #000000;
 	display: block;
