@@ -423,6 +423,10 @@ img {
 	width: 350px;
 }
 
+#body.home .body .gallery .twocolumns{
+	width: 700px;
+}
+
 #body.home .body .gallery ul li p{
     word-wrap:break-word; 
 	overflow: hidden;  
@@ -431,6 +435,11 @@ img {
 
 #body.home .body .gallery ul li img{
 	width: 100%; 
+}
+
+#body.home .body .gallery ul li img .twocolumns{
+	width: 100%; 
+	height: auto;
 }
 
 #body.home .body div p a {
